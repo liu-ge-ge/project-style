@@ -1,0 +1,8 @@
+*.js
+*.jpg
+*.png
+*.json
+/test/
+/dist/
+/node_modules/
+/lib/
